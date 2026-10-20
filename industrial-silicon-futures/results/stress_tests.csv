@@ -1,0 +1,10 @@
+,"Hoshine, Shanshan base (2024)",Xinjiang average,"Southwest, wet season","Southwest, dry season"
+Base,350.0,-595.0,-1360.0,-3520.0
+Electricity +0.05 CNY/kWh,-200.0,-1170.0,-1960.0,-4120.0
+Electricity -0.05 CNY/kWh,900.0,-20.0,-760.0,-2920.0
+Raw materials +20%,-374.0,-1358.0,-2332.0,-4492.0
+Raw materials -20%,1074.0,168.0,-388.0,-2548.0
+Product price -10%,-515.0,-1460.0,-2270.0,-4430.0
+Product price +10%,1215.0,270.0,-450.0,-2610.0
+Combined adverse (all three),-1789.0,-2798.0,-3842.0,-6002.0
+Combined favourable (all three),2489.0,1608.0,1122.0,-1038.0

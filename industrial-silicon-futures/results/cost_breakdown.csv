@@ -1,0 +1,36 @@
+,,cost,share
+"Hoshine, Shanshan base (2024)",Silica,1080.0,0.13012048192771083
+"Hoshine, Shanshan base (2024)",Coke (washed),1485.0,0.1789156626506024
+"Hoshine, Shanshan base (2024)",Wood chips,200.0,0.024096385542168676
+"Hoshine, Shanshan base (2024)",Graphite electrode,855.0,0.10301204819277109
+"Hoshine, Shanshan base (2024)",Electricity,3080.0000000000005,0.37108433734939766
+"Hoshine, Shanshan base (2024)",Labor,400.0,0.04819277108433735
+"Hoshine, Shanshan base (2024)",Other expenses,1000.0,0.12048192771084337
+"Hoshine, Shanshan base (2024)",Environmental fees,200.0,0.024096385542168676
+Xinjiang average,Silica,1080.0,0.11681990265008113
+Xinjiang average,Coke (washed),1485.0,0.16062736614386156
+Xinjiang average,Wood chips,300.0,0.03244997295835587
+Xinjiang average,Graphite electrode,950.0,0.10275824770146025
+Xinjiang average,Electricity,3680.0,0.3980530016224986
+Xinjiang average,Labor,400.0,0.04326663061114116
+Xinjiang average,Other expenses,1000.0,0.10816657652785289
+Xinjiang average,Environmental fees,200.0,0.02163331530557058
+Xinjiang average,Sales/admin/R&D,150.0,0.016224986479177934
+"Southwest, wet season",Silica,1375.0,0.13145315487571702
+"Southwest, wet season",Coke,1260.0,0.12045889101338432
+"Southwest, wet season",Petroleum coke,1040.0,0.0994263862332696
+"Southwest, wet season",Wood chips,225.0,0.021510516252390057
+"Southwest, wet season",Graphite electrode,960.0,0.09177820267686425
+"Southwest, wet season",Electricity,4200.0,0.40152963671128106
+"Southwest, wet season",Labor,400.0,0.03824091778202677
+"Southwest, wet season",Other expenses,800.0,0.07648183556405354
+"Southwest, wet season",Environmental fees,200.0,0.019120458891013385
+"Southwest, dry season",Silica,1375.0,0.1089540412044374
+"Southwest, dry season",Coke,1260.0,0.09984152139461172
+"Southwest, dry season",Petroleum coke,1040.0,0.08240887480190175
+"Southwest, dry season",Wood chips,225.0,0.017828843106180665
+"Southwest, dry season",Graphite electrode,960.0,0.07606973058637084
+"Southwest, dry season",Electricity,6360.0,0.5039619651347068
+"Southwest, dry season",Labor,400.0,0.03169572107765452
+"Southwest, dry season",Other expenses,800.0,0.06339144215530904
+"Southwest, dry season",Environmental fees,200.0,0.01584786053882726
