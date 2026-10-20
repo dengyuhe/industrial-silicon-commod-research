@@ -3,7 +3,7 @@
 **Fundamentals and price forecasting for China's industrial silicon market**
 
 Maggie Deng · Research begun during a summer 2025 internship in the commodities sector; rebuilt and extended October 2026
-📄 [Full report (October 2026)](docs/Industrial_Silicon_Report_2026.pdf) · [Original report (July 2025)](docs/Industrial_Silicon_Fundamental_Analysis_2025.pdf)
+📄 [Full report (October 2026)](industrial-silicon-futures/docs/Industrial_Silicon_Report_2026.pdf) · [Original report (July 2025)](docs/Industrial_Silicon_Fundamental_Analysis_2025.pdf)
 
 ## Summary
 
