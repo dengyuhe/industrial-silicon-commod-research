@@ -1,0 +1,9 @@
+numpy
+pandas
+scipy
+matplotlib
+openpyxl
+pytest
+# optional, for tests/test_against_statsmodels.py
+statsmodels
+arch

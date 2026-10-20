@@ -1,0 +1,7 @@
+{
+ "oi_volume_train_tstats": {
+  "const": -2.44,
+  "d_log_oi": 0.51,
+  "d_log_volume": 0.29
+ }
+}

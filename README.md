@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/33697563/README.md)
 # Industrial Silicon Futures: Forecasting Prices, Volatility and Fundamentals
 
 **Fundamentals and price forecasting for China's industrial silicon market**
